@@ -4,4 +4,4 @@ This is a program that simulates ray casting. The light source similar to the su
 
 Running Code : Download Code Folder, Open 2D Ray Casting Folder, Open 2D Ray Casting.csproj (C# project).
 
-Running Application : Download Run Folder, Open 2D Ray Casting.exe (Running the program generates the boundary at random positions on the screen so just keep running it till you get the position you want and move the lighsource using the mouse)
+Running Application : Download Run Folder, Open 2D Ray Casting.exe (Running the program generates the boundary at random positions on the screen so just keep running it till you get the position you want and move the lightsource using the mouse)
